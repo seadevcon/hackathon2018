@@ -15,12 +15,12 @@ The Challenges of the Hackathon can be found on the [Seadevcon website](http://s
 
 The available APIs to build your applications upon are:
 - Vesseltracker:
-  . Documentation: https://api.vesseltracker.com/static/redoc/index.html
+  * Documentation: https://api.vesseltracker.com/static/redoc/index.html
 - Spire:
-  . Documentation: https://spire.com/contact/developer-portal/?access=true
+  * Documentation: https://spire.com/contact/developer-portal/?access=true
 - Searoutes:
-  . Documentation: https://discover.searoutes.com/wp-includes/swagger-ui/
+  * Documentation: https://discover.searoutes.com/wp-includes/swagger-ui/
 
 ## Slack Channel
 
-You can join our slack channel at [seadevcon.slack.com](seadevcon.slack.com).
+We use slack to coordinate the event and distribute the access token for the API's above. You can join our slack channel at [seadevcon.slack.com](seadevcon.slack.com). If you need an invite, send an email [here](garreau@maritimedatasystem) with subject line "Slack Hackathon".
