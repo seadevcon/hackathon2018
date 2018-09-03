@@ -24,3 +24,10 @@ The available APIs to build your applications upon are:
 ## Slack Channel
 
 We use slack to coordinate the event and distribute the access token for the API's above. You can join our slack channel at [seadevcon.slack.com](seadevcon.slack.com). If you need an invite, send an email [here](garreau@maritimedatasystem) with subject line "Slack Hackathon".
+
+## Useful resources
+
+### Maps
+* Geojson: http://geojson.io/
+* Leaflet: https://leafletjs.com/
+* Mapbox: https://www.mapbox.com/documentation/
