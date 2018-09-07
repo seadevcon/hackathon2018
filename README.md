@@ -23,7 +23,7 @@ The available APIs to build your applications upon are:
 
 ## Slack Channel
 
-We use slack to coordinate the event and distribute the access token for the API's above. You can join our slack channel at [seadevcon.slack.com](http://seadevcon.slack.com). If you need an invite, send an email [here](mailto:garreau@maritimedatasystem.com) with subject line "Slack Hackathon".
+We use slack to coordinate the event and distribute the access token for the API's above. You can join our slack channel at [seadevcon.slack.com](http://seadevcon.slack.com). If you need an invite, send an email [here](mailto:garreau@maritimedatasystems.com) with subject line "Slack Hackathon".
 
 ## Useful resources
 
